@@ -64,6 +64,12 @@ Moves or renames a file.
 ```bash
 mv old.txt new.txt
 ```
+  for rename file
+```bash
+mv old.txt /path/to/destination /
+```
+ for move file
+
 ## 13. rm
 Deletes a file.
 ```bash
