@@ -80,3 +80,18 @@ Deletes a directory.
 ```bash
 rm -r folder_name
 ```
+## 15. grep
+Searches for a specific string in files.
+```bash
+grep "specific string" filename.txt
+```
+```bash
+grep -i "specific string" filename.txt
+```
+   Case-insensitive search
+## 16. history
+Displays the command history.
+```bash
+history
+```
+
