@@ -94,4 +94,60 @@ Displays the command history.
 ```bash
 history
 ```
+## 17. cat
+Displays file contents.
+```bash
+cat file.txt
+```
+## 18. clear
+Clears the terminal screen.
+```bash
+clear
+```
+## 19. man
+Shows the manual of a command.
+```bash
+man ls
+```
+## 20. echo
+Prints text to the terminal.
+```bash
+echo "Hello Linux"
+```
+## 21. chmod
+Changes file permissions.
+```bash
+chmod 755 file.sh
+```
+## 22. chown
+Changes file ownership.
+```bash
+chown user file.txt
+```
+
+## 23. uname
+Displays system information.
+```bash
+uname -a
+```
+## 24. df
+Shows disk usage.
+```bash
+df -h
+```
+## 25. free
+Displays memory usage.
+```bash
+free -h
+```
+## 26. top
+Shows running processes.
+```bash
+top
+```
+## 27. ps
+Displays running processes.
+```bash
+ps
+```
 
