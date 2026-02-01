@@ -150,4 +150,29 @@ Displays running processes.
 ```bash
 ps
 ```
+## 28. kill
+Stops a process.
+```bash
+kill PID
+```
+## 29. whoami
+Shows current user.
+```bash
+whoami
+```
+## 30. history
+Shows command history.
+```bash
+history
+```
+## 31. grep
+Searches text in files.
+```bash
+grep "text" file.txt
+```
+## 32. find
+Searches for files.
+```bash
+find . -name file.txt
+```
 
